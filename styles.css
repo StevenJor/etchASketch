@@ -1,0 +1,19 @@
+#container {
+    height: 480px;
+    width: 480px;
+    
+    border: 1px solid black;
+}
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("image/pexels-monstera-6373291.jpg");
+    background-size: 100%;
+}
+#changeBtn {
+    margin-bottom: 1rem;
+}
